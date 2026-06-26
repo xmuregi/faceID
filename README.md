@@ -1,6 +1,6 @@
-# Object Detection
+# Face Identification 
 ## Description
-Using OpenCV for object detection. The goal is to learn how images are processed, learn matplotlib along the way too.
+The goal is to learn how Face Identification works and how to apply it to security systems. 
 
 ## Installation
 To do
