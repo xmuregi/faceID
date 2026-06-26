@@ -28,6 +28,22 @@ V1 includes:
 * [Project scope](docs/scope.md)
 * [System architecture](docs/architecture.md)
 
+## Run Locally
+
+Create a local `.env` file from the example:
+
+```bash
+cp .env.example .env
+```
+
+Run the webcam face detector:
+
+```bash
+venv/bin/python src/main.py
+```
+
+Press `q` to close the camera window.
+
 ## Planned Structure
 
 ```text
